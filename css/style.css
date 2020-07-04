@@ -1,0 +1,140 @@
+/* body style */
+body{
+    background-color: rgba(39, 39, 39, 0.198);
+    font-family: serif;
+}
+/* index page */
+/* header style */
+.navimagename{
+    text-align: center;
+}
+.anchorheaderstyle{
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+.ulheaderstyle{
+    padding-bottom: 7px;
+}
+.anchorheaderstyle:hover{
+    text-decoration: underline;
+}
+.hrheaderstyle{
+    margin-left: 25%;
+    margin-right:25% ;
+}
+.listheaderstyle{
+    list-style: none;
+    display: inline;
+    margin-right: 5px;
+   
+}
+.headerh2style{
+    margin: 0;
+    font-size: 27px;
+}
+
+/* intro section style */
+
+.intro{
+    text-align: center;
+}
+.h1introstyle{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.introh3style{
+    margin: 0;
+    color: rgba(0, 0, 0, 0.40);
+}
+.paragraphintrostyle{
+    font-size: large;
+    margin-top: 30px;
+    color: rgba(0, 0, 0, 0.8);
+}
+/* socialiconstyle */
+.socialiconstyle{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.sociallinkh1style{
+    margin-top: 100px;
+    font-size: 25px;
+}
+.socialiconimagestyle{
+    width: 40px;
+    height: 40px;
+}
+.anchorsociallinkstyle{
+    margin-right: 10px;
+}
+/* footer */
+
+.footerstyle{
+    position: relative;
+    bottom: 0;
+    text-align: center;
+}
+
+/*Contact style  */
+.contacth1style{
+    margin-left: 25px;
+}
+.hrcontactstyle{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*Find me style  */
+.findmestyle{
+    text-align: center;
+}
+.contactimagestyle{
+    height: 50px;
+    width: 50px;
+}
+.contactparagraphstyle{
+    font-size: 20px;
+}
+/* Leave me a message style */
+.input{
+    margin: 20px;
+    padding: 20px;
+    width: 75%;
+    border-radius: 2%;
+}
+.floatcontactstyle{
+    width: 45%;
+    float: left;
+}
+.contactfloatclear{
+    clear: both;
+}
+.input:hover{
+    border-bottom: 3px solid green;
+}
+.inputbutton{
+    border-radius: 4px;
+    color: #5F6368;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+}
+.inputbutton:hover{
+    border: 2px solid green;
+}
+.buttoncontactstyle{
+    text-align: center;
+}
+
+/* About me style */
+.fieldsetaboutmestyle{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 80px;
+}
+.fieldsetaboutmepstyle{
+    padding: 10px;
+}
